@@ -5,6 +5,7 @@ export default function infoAPI(req, res) {
     firstName: 'Cuong',
     lastName: 'Nguyen',
     dob: '26/12/1991',
-    gender: 'Pede'
+    gender: 'Pede',
+    tel: '0914-732-363'
   })
 }
